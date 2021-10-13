@@ -1,0 +1,6 @@
+/data
+/app/.idea
+/app/vendor
+/app/composer.lock
+/logs
+.env
